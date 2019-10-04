@@ -16,7 +16,9 @@ Output:
 Solution will propose replication fix as below summary of instructions
 
 ------------------------Replication Fix Summary---------------------------------
+
 File4 to be copied from Host4 to Host3
+
 File3 to be copied from Host4 to Host1
 
 
